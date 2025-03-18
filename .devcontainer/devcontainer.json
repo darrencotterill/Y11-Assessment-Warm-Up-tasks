@@ -17,7 +17,7 @@
           "oderwat.indent-rainbow": true,
           "GitHub.codespaces": true,
           "ms-python.debugpy": true,
-          "mechatroner.rainbow-csv": true
+          "mechatroner.rainbow-csv": true,
           "*": false
         },
         "files.autoSave": "onFocusChange",
