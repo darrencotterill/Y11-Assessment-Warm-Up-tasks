@@ -1,6 +1,6 @@
 
 # Input a number from the user and print the square of the number in a message
-
+number = input("Give me a number:")
 
 
 
